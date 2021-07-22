@@ -6,3 +6,9 @@ h1 {
     padding: 5px;
     color: green;
 }
+
+a {
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
