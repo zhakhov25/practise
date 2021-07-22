@@ -1,3 +1,8 @@
 h1 {
     color: red;
 }
+
+.contacts__title {
+    padding: 5px;
+    color: green;
+}
